@@ -1,4 +1,3 @@
-require 'pry'
 class Artist
   attr_accessor :name, :song, :artist
   attr_reader :songs
